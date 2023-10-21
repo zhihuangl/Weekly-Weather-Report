@@ -1,27 +1,27 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *NYC weekly weather*
 
 Submitted by: **Zhi Huang Li**
 
-This web app: **insert description**
+This web app: **displays this week's weather in nyc**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The list displays a list of data fetched using an API call**
-- [ ] **Data uses the useEffect React hook and async/await syntax**
+- [x ] **The list displays a list of data fetched using an API call**
+- [x ] **Data uses the useEffect React hook and async/await syntax**
 - [ ] **The app dashboard includes at least three summary statistics about the data such as**
   - [ ] *insert details*
-- [ ] **A search bar allows the user to search for an item in the fetched data**
-- [ ] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
+- [ x] **A search bar allows the user to search for an item in the fetched data**
+- [x ] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
 
 The following **optional** features are implemented:
 
-- [ ] Multiple filters can be applied simultaneously
+- [X ] Multiple filters can be applied simultaneously
 - [ ] Filters use different input types such as a text input, a selection, or a slider
-- [ ] The user can enter specific bounds for filter values
+- [X ] The user can enter specific bounds for filter values
 
 The following **additional** features are implemented:
 
@@ -31,14 +31,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/Tdnetwp-.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/web102/Tdnetwp-.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
@@ -46,7 +44,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Zhi Huang Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
