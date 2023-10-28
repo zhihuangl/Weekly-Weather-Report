@@ -1,27 +1,24 @@
-# Web Development Project 5 - *NYC weekly weather*
+# Web Development Project 6 - *Weekly Weather Report NY*
 
-Submitted by: **Zhi Huang Li**
+Submitted by: **Zhi Huang**
 
-This web app: **displays this week's weather in nyc**
+This web app: **Shows low and high temp in ny within a week**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x ] **The list displays a list of data fetched using an API call**
-- [x ] **Data uses the useEffect React hook and async/await syntax**
-- [ ] **The app dashboard includes at least three summary statistics about the data such as**
-  - [ ] *insert details*
-- [ x] **A search bar allows the user to search for an item in the fetched data**
-- [x ] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
+- [x ] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [x ] **Clicking on an item in the list view displays more details about it**
+- [ x] **Clicking on an item has a direct, unique link to that item's detail view page**
+
 
 The following **optional** features are implemented:
 
-- [X ] Multiple filters can be applied simultaneously
-- [ ] Filters use different input types such as a text input, a selection, or a slider
-- [X ] The user can enter specific bounds for filter values
+- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
+- [ ] The site allows users to toggle between different data visualizations
 
 The following **additional** features are implemented:
 
@@ -31,16 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/Tdnetwp-.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://submissions.us-east-1.linodeobjects.com/web102/Tdnetwp-.gif
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+API call request limit reached
 
 ## License
 
